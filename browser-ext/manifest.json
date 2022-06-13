@@ -1,5 +1,5 @@
 {
-    "name": "JSON Resume Exporter",
+    "name": "JSON Profile Exporter",
     "description": "Export a profile page to JSON Resume",
     "manifest_version": 2,
     "icons": {
